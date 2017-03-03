@@ -1,0 +1,29 @@
+{
+  "name": "ifeCourse",
+  "version": "1.0.0",
+  "description": "2017百度前端学院课程repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llz383455526/ifeCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llz383455526/ifeCourse/issues"
+  },
+  "homepage": "https://github.com/llz383455526/ifeCourse#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.6",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^2.0.0",
+    "gulp-less": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.3.0"
+  }
+}
